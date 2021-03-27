@@ -9,8 +9,8 @@ $ = $_POST['phone']
 $mail->isSMTP();
 $mail->Host = 'smtp.gmail.com'
 $mail->SMTPAuth = true;
-$mail->Username = '';
-$mail->Password = '';
+$mail->Username = 'Корпорация ГАВК';
+$mail->Password = 'corp-c0rp-gavk_241';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 587;
 
@@ -22,9 +22,3 @@ $mail->isHtml(true);
 $mail->Subject = 'От Олега'
 $mail->Body = '' . 'унитаз оставил свой номер: ' . $phone;
 $mail->AltBody = '';
-
-if(!$mail->send()) {
-	echo 'Error'
-} else {
-	header('location: youtube.com')
-}
