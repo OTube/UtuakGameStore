@@ -7,7 +7,7 @@ $ = $_POST['name']
 $ = $_POST['phone']
 
 $mail->isSMTP();
-$mail->Host = 'smtp.gmail.com'
+$mail->Host = 'gavk.supp0rt@gmail.com'
 $mail->SMTPAuth = true;
 $mail->Username = 'Корпорация ГАВК';
 $mail->Password = 'corp-c0rp-gavk_241';
