@@ -22,3 +22,4 @@ $mail->isHtml(true);
 $mail->Subject = 'От Олега'
 $mail->Body = '' . 'унитаз оставил свой номер: ' . $phone;
 $mail->AltBody = '';
+?>
