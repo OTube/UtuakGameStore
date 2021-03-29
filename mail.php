@@ -15,14 +15,17 @@ $mail->SMTPSecure = 'ssl';
 $mail->Port = 587;
 
 $mail->setFrom('gavk.supp0rt@gmail.com')
-$mail->setFrom('oleg.937.cherkasov@gmail.com')
-
-$mail->setFrom('');
-$mail->addAddress('');
+$mail->addAddress('oleg.937.cherkasov@gmail.com');
 
 $mail->isHtml(true);
 
 $mail->Subject = 'От Олега'
 $mail->Body = '' . 'унитаз оставил свой номер: ' . $phone;
 $mail->AltBody = '';
+
+if(!$mail->send()) {
+	echo 'Error'
+} else {
+	header('location: index1.html')
+}
 ?>
