@@ -1,1 +1,1 @@
-https://yadi.sk/d/zjG9kUxwF-ykvg
+protected event Download(string file) => base.Download(N/A = 100);
