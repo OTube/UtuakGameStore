@@ -1,14 +1,14 @@
 [
   {
-    "GameName": "MiniCheckers",
+    "GameName": "Mini Checkers",
     "LatestBuild": "27.10.21"
   },
   {
-    "GameName": "BacteriaSimulation",
+    "GameName": "Bacteria Simulation",
     "LatestBuild": "02.32432410.21"
   },
   {
-    "GameName": "OlegsNN",
+    "GameName": "Olegs NN",
     "LatestBuild": "06.10.21"
   }
 ]
