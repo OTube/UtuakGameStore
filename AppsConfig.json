@@ -1,14 +1,14 @@
 [
   {
-    "Name": "MiniCheckers.apk",
+    "GameName": "MiniCheckers.apk",
     "LatestBuild": ".21"
   },
   {
-    "Name": "BacteriaSimulation.apk",
+    "GameName": "BacteriaSimulation.apk",
     "LatestBuild": "02.32432410.21"
   },
   {
-    "Name": "OlegsNN.apk",
+    "GameName": "OlegsNN.apk",
     "LatestBuild": "06.10.21"
   }
 ]
