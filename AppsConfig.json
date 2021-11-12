@@ -1,7 +1,7 @@
 [
   {
     "GameName": "Mini Checkers",
-    "LatestBuild": "10.11.21"
+    "LatestBuild": "12.11.21"
   },
   {
     "GameName": "Bacteria Simulation",
@@ -10,5 +10,9 @@
   {
     "GameName": "Olegs NN",
     "LatestBuild": "06.10.21"
+  },
+  {
+    "GameName": "Utuak Store",
+    "LatestBuild": "12.11.21"
   }
 ]
