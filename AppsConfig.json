@@ -15,20 +15,10 @@
     "UrlAdress": "https://otube.github.io/UtuakGamesStore/OlegsNN.apk"
   },
   {
-    "GameName": "World of tanks",
-    "LatestBuild": " v1.14.1",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/World of Tanks RU.lnk"
-  },
-  {
     "GameName": "Checker.png",
     "LatestBuild": " только что",
     "UrlAdress": "https://otube.github.io/UtuakGamesStore/Checker.png"
-  },
-  {
-    "GameName": "Fall guys mobile",
-    "LatestBuild": " 06.09.20",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/Fall Guys Ultimate Knockout.url"
-  },
+  }
   {
     "GameName": "Utuak Store",
     "LatestBuild": "11.11.21",
