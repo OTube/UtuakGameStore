@@ -28,5 +28,10 @@
     "GameName": "Гриб",
     "LatestBuild": ".:.",
     "UrlAdress": "https://otube.github.io/UtuakGamesStore/sport.apk"
+  },
+  {
+    "GameName": "rel",
+    "LatestBuild": ".:.",
+    "UrlAdress": "https://otube.github.io/UtuakGamesStore/app-release.apk"
   }
 ]
