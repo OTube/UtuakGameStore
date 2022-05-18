@@ -1,8 +1,8 @@
 [
   {
-    "GameName": "Mini Checkers",
-    "LatestBuild": "14.11.21",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/MiniCheckers.apk"
+    "GameName": "Mini Checkers java",
+    "LatestBuild": "18.05.22",
+    "UrlAdress": "https://otube.github.io/UtuakGamesStore/mcheckers.apk"
   },
   {
     "GameName": "Bacteria Simulation",
@@ -15,23 +15,8 @@
     "UrlAdress": "https://otube.github.io/UtuakGamesStore/OlegsNN.apk"
   },
   {
-    "GameName": "Checker.png",
-    "LatestBuild": " abs",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/Checker.png"
-  },
-  {
     "GameName": "Utuak Store",
     "LatestBuild": "11.11.21",
     "UrlAdress": "https://otube.github.io/UtuakGamesStore/UtuakStore.apk"
-  },
-  {
-    "GameName": "Гриб",
-    "LatestBuild": ".:.",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/sport.apk"
-  },
-  {
-    "GameName": "rel",
-    "LatestBuild": ".:.",
-    "UrlAdress": "https://otube.github.io/UtuakGamesStore/app-release.apk"
   }
 ]
