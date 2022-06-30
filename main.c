@@ -16,11 +16,9 @@ typedef struct userstruct user;
 typedef struct roomstruct room;
 
 struct userstruct{
-    //room *myroom;
-    int myroom;
-    int streame;
-    BYTE noinfo;
-    //BYTE timerem;
+	int myroom;
+	int streame;
+	BYTE noinfo;
 	bool playing;
 	bool finding;
 	bool first;
@@ -51,7 +49,7 @@ int main(void) {
         (rooms + u)->drs = false;
     }
     for(int u = 0; u < 128; ++u){
-        (users + u)->streame = -1;
+	(users + u)->streame = -1;
     }
     wroom = -1;
     freeroom = false;
