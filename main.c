@@ -45,7 +45,7 @@ const struct timespec tpc2 = {0, 100000000};
 int main(void) {
     rooms = (room*)malloc(sizeof(room) * 64);
     users = (user*)malloc(sizeof(user) * 128);
-    buffe = (char*)malloc(sizeof(char) * 8);
+    buffe = (BYTE*)malloc(sizeof(BYTE) * 8);
     for(int u = 0; u < 64; ++u){
         (rooms + u)->state = false;
         (rooms + u)->drs = false;
